@@ -1,0 +1,13 @@
+streamlit
+faiss-cpu
+sentence-transformers
+langchain
+openai
+pdfplumber
+pytesseract
+opencv-python
+Pillow
+psycopg2-binary
+rank-bm25
+scikit-learn
+python-dotenv

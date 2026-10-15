@@ -1,0 +1,349 @@
+Infosys HSE Management System
+PREAMBLE
+Infosys is committed to providing a safe and healthy work environment to all its employees including contract workmen. This Policy elaborates the core
+intent of the organization on Health, Safety and Environment and its intended implementation.
+OZONE -HEALTH, SAFETY AND ENVIRONMENTAL MANAGEMENT SYSTEM (HSEMS)
+Our Health, Safety and Environmental Management System (HSEMS) is certified to ISO 45001:2018 standard and ISO14001:2015 standard. The scope of HSEMS
+is all activities, which are a part of our operations and employees working for and on behalf of the company including deputees at client sites. Safety and well-
+being of our employees is accorded the highest priority. The certifications can be found in the following link. The robust HSEMS at Infosys has enabled us to
+achieve certification to ISO 45001:2018 and ISO14001 standards across all India locations, including Infosys Limited and its subsidiaries, in line with our HSE
+strategy. The management system is implemented across locations globally based on applicable legal requirements and internal benchmarks and are a part of
+our internal audit coverage.
+https://www.infosys.com/about/esg/certifications.html
+HSE POLICY
+The Health, Safety and Environmental (HSE) Policy is a statement by the Top Management, enunciating the philosophy and commitment of the Company
+towards Environmental protection and Management of Health & Safety of employees, contract workmen and visitors and the larger community as relevant.
+The policy statement is available in the link below
+https://www.infosys.com/sustainability/resources/documents/health-safety-environmental-policy.pdf
+GOVERNANCE
+Infosys has established a Health, Safety and Environmental Management System (HSEMS) under the aegis of the HSE policy and is certified to ISO14001 and
+ISO45001 in line with the Strategy. The HSEMS at Infosys is headed by the EVP & Global Head finance & Chief Risk Officer. Our Board instituted an
+Environmental, Social and Governance Committee to discharge its oversight responsibility on matters related to organization wide ESG initiatives, priorities,
+and leading ESG practices which are demonstrated through our HSEMS. ESG goals are being cascaded to our business leaders and chalking out a roadmap to
+achieve the same. The ESG Committee of the Board is apprised of the progress on the goals on a quarterly basis.
+POLICY OVERVIEW
+I. Sustainable Resource Usage:
+Aligned to its core values and in line with the Sustainability policy, Infosys intends to work towards conservation of natural resources with guidance from the
+top management and ensure sustenance.
+The focus areas for conservation include and is not limited to:
+a. Energy:
+• Reduction in per capita consumption of electricity through optimization and implementation of emerging technologies in operations
+• Construct energy efficient buildings (green buildings)
+• Implement smart building solutions
+• Harness energy from on-site and off-site renewable sources
+Sourcing Green power
+o
+Investing in Solar power
+o
+b. Water:
+• Reduction in per capita fresh water consumption
+Increased use of recycled water in operations
+o
+Optimization
+o
+Implementation of emerging technologies in operations
+o
+Procurement and use of grey water
+o
+• Water sequestration
+Rain water harvesting
+o
+Creating lakes, injection wells for recharging acquifers
+o
+• Undertaking Lake rejuvenation projects in the water shed area
+c. Paper:
+• Reduction in paper consumption
+Digitization
+o
+Employee Awareness
+o
+Smart procurement
+o
+d. Fuel:
+Use of efficient equipment
+o
+Optimization
+o
+II. Prevention of pollution
+Pollution prevention at Infosys covers the following:
+a. Waste:
+• Reduction at source
+• Segregation
+• Reuse / Recycle
+• Scientific disposal in adherence to applicable legislations
+• Zero waste to landfill
+• Certifications on Zero waste to landfill
+b. Emissions:
+ GHG emissions:
+• Aggressive targets and programmes for reduction in GHG emission
+ Air (Stack) emissions:
+• Monitoring and compliance to stipulated legal norms
+• Efficient equipment
+• Phase wise retrofit of DG sets based on latest legislations
+ ODS
+Retrofit of R22 refrigerants with zero ODP refrigerants
+o
+ Sewage:
+• Stringent water recycling and replenishing systems
+• Reuse of recycled water
+ Noise:
+• Acoustic enclosures for noise reduction
+• Advanced equipment
+III. Compliance Obligations
+• Applicable Legal requirements
+• Other requirements – Infosys internal requirements like standards / Regulatory Guidelines (NBC), customer requirements, Benchmarking
+requirements etc.,
+IV. Awareness and Training
+Our journey towards continual improvement and embedding HSE culture in the organization involves employee awareness, engagement, and participation.
+Employees are sensitized on aspects of HSE through induction programmes, mailers, portals, Infy TV, sessions by experts etc.,
+Embedding a safety-first culture and to imbibe quality of environmental protection in the organization necessitates competency development. Training needs
+are identified based on the nature of jobs. Personnel whose work may create a significant impact on the environment or whose work may pose occupational
+health and safety risk will be given an appropriate orientation to make them aware of:
+• The significant environmental, occupational health and safety impacts and consequences, actual or potential, of their work activities and the benefits
+of improved personal performance.
+• Their roles and responsibilities in achieving conformance with the HSE policy and procedures, and with the requirements of the HSEMS, including
+emergency preparedness and response requirements.
+• The potential consequences of deviations from specified operating procedures.
+• Specialized safety training sessions dealing with an employee's unique job assignment must be developed by each supervisor. It is the responsibility of
+each supervisor to understand his/her employee's job tasks and related hazards.
+• Training is also provided to employees concerning general safe work practices (Safety Training Program) as well as specific instruction with respect to
+hazards unique to each employee's job assignment.
+• Trainings also include awareness on aspects of resource conservation (water, power), waste management (including reduction, alternatives), emissions
+amongst others
+• Series of communication is ensured to all employees to drive the concepts of HSE policy, the hazards or environmental impacts and actions Infosys has
+taken to address these concerns.
+Training includes awareness-building, mock drills, classroom sessions and periodic demonstrations. It is also a part of our employee induction programs. E-
+learning module is available globally as a continuous learning platform for employees. Job-specific training is regularly conducted for contractual staff during
+induction and later through refresher courses
+INTERESTED PARTIES
+Individuals or groups who can affect, be affected by or perceive themselves to be affected by a decision or activity of an organization are known as interested
+parties or stakeholders. Interested parties for Infosys, their needs and/or expectations relevant to its environmental, OHS and energy performance are
+identified and documented. Stakeholders are consulted and their suggestions and concerns are evaluated and considered for any changes in policy or
+procedures related to HSE.
+ELEMENTS OF HSEMS
+I. HSE Organization
+At the Corporate level the HSEMS is headed by the CHIEF RISK OFFICER AND EVP - FINANCE OF the company. A core team of senior representative
+of business and enabler functions led by Program Manager support the Head HSE to manage the initiative and provide strategic and thought
+leadership. A team of cross functional managers are responsible for day-to-day management of the initiative. At the location level a cross functional
+team headed by the Development Centre (DC) Head is responsible for this activity. Detailed roles, responsibilities and authorities are established and
+published internally.
+I. Risk Management
+The HSEMS is based on the Demings cycle and has a focused risk-based approach in identification and implementation of operational controls in line with
+hierarchy and effective mitigation of hazards / aspects. Risk assessment is proactively conducted to identify hazards for all existing / new / modified activities,
+processes, products or services and the implementation of measures to minimize or control impacts and monitor them in a structured manner. Risk
+assessment is proactively conducted on a yearly basis or at the beginning of a new process or activity. Reactive risk assessments are also carried out at least
+once every quarter. Hazardous conditions present are identified and prioritized for elimination and control. Once the identified hierarchy of controls are
+implemented, the document is revisited to assess the residual risks. A ranking is done based on the severity and probability of the risk. The Occupational Health
+and Safety (OH&S) hazards in the workplace are communicated to all concerned stakeholders who are also consulted when there are changes in operations.
+Relevant OH&S hazards are identified, and appropriate operational controls are implemented. During training, the hazards are shared along with directions on
+ways to reduce the risk. Employees are also consulted during development and review of policies and procedures to manage risks. As Infosys is an IT/ITES
+company, there are no product risks but those related to the provision of services like ergonomics in work, emotional wellbeing, risks associated with
+operation of utilities, commute, resource depletion, emissions, Waste management etc. Participation and consultation with relevant personnel involved in the
+activities is ensured during the process of risk assessments. HSE subject matter experts across our locations enable day-to-day management of the
+requirements. Risks are also assessed prior to and post the development of new buildings. Experience from previous projects and current operations are also
+considered.
+II. Objectives, Targets and Management Programs
+Documented HSE objectives and targets are established and maintained, at each relevant function and level within the campus. When establishing and reviewing
+environmental, occupational health and safety objectives and targets, the following are considered:
+• Significant environmental aspects and their impacts
+• Significant OHS hazards and risks.
+• Legal & other requirements
+• Commitment to the HSE policy
+• Use of best available technology, which is economically viable, cost effective and deemed to be appropriate
+• Financial, operational, and business requirements
+• Views of interested parties such as the Central/State Pollution Control Boards, Regulatory Agencies, investors, customers, neighboring industries,
+employees, statutory bodies, and neighboring settlements.
+The HSE objectives established are measurable and achievable (SMART). A detailed action plan for achieving the HSE objectives and target is decided and
+documented. The responsibilities and time frames for the action plans are recorded in the Programmes. Each action plan may be subdivided to address specific
+elements of the action plan (e.g., planning and execution) and recorded in the Programmes for specific measures such as provision of infrastructure/
+Long Term Targets
+1. Carbon Emissions
+a. To maintain Carbon Neutrality across scopes 1, 2 and 3 emissions for each year up to FY2030
+b. Target: To reduce our scope 1 and 2 GHG emissions against business-as-usual scenario by utilizing RE, corresponding 78% RE utilization in India.
+c. Target: To reduce our absolute scope 3 emissions by 15% against base year of FY2020.
+d. Target: Replacement of air conditioning units / water coolers containing R22 refrigerants in a phased manner by March 31, 2030.
+2. Zero Waste to Landfill by 2030
+3. Zero waste certification 100% of owned campuses by 2030
+a. Target: Certification for 7 identified owned campuses across India by 31st March 2026
+b. Target: Certification for 5 identified owned campuses across India by 31st March 2027
+c. Target: Certification for 5 identified owned campuses across India by 31st March 2028
+d. Target: Evaluate and obtain True Zero waste certification for owned campuses overseas based on feasibility by 31st March 2030
+4. Waste Water Management
+a. Target: Ensure 100% of our wastewater is treated by FY2030
+5. Phase wise enablement of roof rainwater harvesting mechanisms across identified owned campuses in India by FY 2030.
+FY26: Rooftop rainwater harvesting projects to be implemented in buildings across identified campuses – Pune Phase 1, Chennai
+o
+Sholinganallur, Mysore, Hyderabad SEZ, Chandigarh, Trivandrum, Mangalore, Bhubaneshwar STPI
+FY27 to FY 30: Rooftop rainwater harvesting projects for other identified locations
+o
+6. Installation of Dual Plumbing system for reuse of treated water there by reducing freshwater sourcing at old campuses where dual plumbing is not
+available
+FY26 : Dual plumbing and recycled water connectivity is planned for HYD STPI, BBSR STPI, Mangalore, Chennai Shols & Ecity campus
+o
+FY27 to 2030: Dual plumbing and recycled water connectivity for other identified locations
+o
+7. Water Neutral / Water positive certifications for 100 % of owned campuses (24 owned campuses) in India by FY 2028
+FY26: Achieve water neutrality and positive certification for 9 owned campuses (Trivandrum, Chennai Mcity, Shols, Mysore, Hyd SEZ, Hyd STPI,
+o
+BBSR SEZ, BBSR STPI, Chandigarh)
+FY 27: Achieve water neutrality and positive certification for 8 owned campuses
+o
+FY 28: Achieve water neutrality and positive certification for 7 owned campuses
+o
+SHORT TERM TARGETS
+ENVIRONMENTAL
+8. Reduction in electricity consumption
+a. Target: 5% per capita (Based on consumption of FY 2025) by March 31st, 2026
+9. Reduction in freshwater consumption
+a. Target: 5% per capita (Based on consumption of FY 2025 – excluding ECC and Green Belt) by March 31st, 2026
+b. Target: Evaluate and enable procurement of secondary quality water (Grey water) through authorized agencies/authorities to meet out the
+water demand for landscaping applications which helps to reduce requirement of freshwater procurement substantially by March 31, 2026
+c. Target: Implementation of dual plumbing for buildings in identified campuses to utilize the STP treated water for flushing by March 31, 2026
+d. Target: Implement smart irrigation projects to optimize water consumption in landscaping applications in identified DCs by March 31, 2026
+10. Reduce freshwater consumption in ECC (at locations where available)
+a. Target: Maintain per capita consumption at NBC level of 135 ltrs per day
+b. Target: Explore feasibility and installation of dual plumbing in identified locations to reduce freshwater consumption by March 31, 2026
+11. Enhanced monitoring of Wastewater in STP’s
+a. Target: Installation of Online Continuous Effluent Monitoring System (OCEMS) in the STP in identified locations by March 31, 2026
+b. Integration of OCEMS with Building Management System (BMS) for online monitoring in identified locations by March 31, 2026
+12. Water Management
+a. Target: Upgradation of STP plants to MBR technology in identified DCs (BBSR-STPI, Mangalore SEZ and Jaipur SEZ) by December 31, 2025, to
+achieve upgradation in 100% of owned campuses in India to enhance quality of treated water for secondary use and thereby reducing freshwater
+sourcing.
+b. Target: Retrofit of end-of-life STP’s in Pune Phase 2 by March 31, 2026
+c. Target: Revisit irrigation water requirements and identify areas for implementation of smart irrigation projects in identified locations by March
+31st, 2026.
+13. Implementation and certification to ISO50001: Energy Management System
+a. Target: Coverage of identified owned campuses (5 locations) by March 31, 2026
+HEALTH AND SAFETY
+14. Enhancing engagements / interventions on well-being related topics
+a. Target: Emotional wellbeing sessions by September 30, 2025
+b. Launching the “Train the Trainer” training on Mental Health First Aiders by December 30, 2025
+c. Focused interventions on strengthening the social connectedness within the organization by March 31, 2026
+d. Target: Physical wellbeing Interventions as Identified by December 31, 2025
+15. Enhanced safety and compliance adherence in identified processes.
+a. Target: Enhance confined space program (Hazardous & Non-Hazardous) across India locations, through implementation of identified controls
+by 31st December 2025.
+b. Target: Revisit of identification of risks / unsafe conditions for activities involving work at height and implement controls to mitigate the same
+across all locations by March 31, 2026.
+III. Emergency Preparedness
+The company faces the threat of disaster from internal and external sources. They could be natural or man-made, technological, or
+political disasters. Disasters could be accidental or intentional. Such disasters could be controllable or those beyond the organization’s
+control. Disasters could strike with prior warnings or could come with no prior warnings. We have established contingency systems to
+minimize damages due to emergencies. Mitigation addresses the positioning of those measures and activities that will lessen the
+possibility or the impact of an adverse incident occurring in the organization.
+Emergency Response procedure (ERP) is established considering various scenarios. The ERP covers aspects like pre-event controls,
+actions to be taken during the emergency and post event activities. There is a clear definition of roles and responsibilities, and mock
+drills are conducted at defined frequencies to test our preparedness and identify and address any gaps as per the defined ERP.
+Emergencies are identified under HSE and BCMS. The emergency response procedure considering various scenarios is documented with
+defined roles and responsibilities of personnel. Emergency preparedness and response will also be reviewed and revised, when
+necessary, after the occurrence of the emergency.
+IV. Incident Management
+A process for Incident management exists including Incident reporting, investigation and implementation of appropriate correction and corrective measures.
+Employees, contractual staff, visitors are all expected to report incidents including near miss and potential hazards in addition to accidents. Mechanisms have
+been implemented to report incidents.
+The investigations would focus on root causes and system failures and measures are identified and implemented to prevent recurrence or occurrence of such
+incidents which will enable reduce future injuries and losses. Detailed investigations should be carried out for all incidents. Less serious incidents (near misses
+or incidents where there is no lost time) should be investigated with a degree of rigor appropriate to the potential for loss or injury.
+V. OH&S Committees
+Occupational Health and Safety (OH&S) Committees OH&S Committees comprising cross-functional teams are established at each of our campuses and offices.
+The Development Center Heads chair the safety committee meetings at their respective locations in India. In our overseas offices, these committees are
+formed based on local legislation. The employee representation in safety committees is 100%. The committee brings employees and management together in
+a non-adversarial, cooperative effort to promote OH&S within the entire workplace. The committee ensures the establishment, implementation, maintenance,
+and continual improvement of processes needed for the elimination of hazards and minimization of risks. Contract workers are also an intrinsic part of the
+committee, which is one of the ways to ensure participation and consultation. The OH&S committees are responsible for conducting investigation of reported
+incidents, assisting in the development and implementation of the OH&S best practices to minimize risks, and providing an opportunity to raise concerns and
+recommend solutions for various OH&S-related issues.
+VI. Inspections
+A health and safety inspection program is established to ensure a reduction in unsafe campus conditions, which may expose employees and the public to
+incidents that could result in injury to individuals or property damage.
+SCHEDULED WORKPLACE INSPECTIONS
+• Regular and systematic workplace inspections are scheduled for all areas. Area specific supervisors are assigned to conduct these inspections.
+• The frequency of regular workplace inspections is once every quarter.
+UNSCHEDULED WORKPLACE INSPECTIONS
+• Departments will conduct an immediate inspection whenever new substances, processes, procedures, or equipment, which represent a new potential health
+and safety hazard, are introduced.
+• Departments also will conduct an inspection whenever notification of a new or previously unrecognized hazard is received.
+• Unscheduled inspections of any workplaces to help ensure the maintenance of a safe and healthful workplace. Non-compliance will result in notices of
+deficiencies being issued.
+Records of scheduled and unscheduled inspections are maintained which enable identification of unsafe conditions and work practices. The closure of identified
+gaps is ensured and tracked.
+VII. Participation and consultation
+The engagement of employees in ensuring safe and healthy workplace is essential and this is enabled through the process of participation and consultation
+which includes employee / contract staff involvement in:
+• Development and review of policies and procedures for risk management.
+• Change management where this might affect workplace health and safety through management of change procedure.
+• Representation in health and safety matters through the Safety Committee.
+• Understanding the OH&S hazards in the workplace which are communicated to all concerned including contractors and visitors.
+• Health promotion programs including a Safety Week and Health Week are conducted annually.
+• Incident reporting includes potential hazards and participation in the process of identification and implementation of controls based on root cause
+analysis, avoiding the recurrence of incidents, and aiding in elimination of unsafe behavior and conditions.
+• Emergency mock drills and reporting or identifying learnings which need to be addressed.
+VIII. Health & Safety
+At Infosys, we are committed to providing and maintaining a healthy, safe workplace by:
+• Eliminating hazards and reducing risks
+• Providing and maintaining safety equipment
+• Appropriate, timely, and regular safety training
+Well-equipped Occupational health centers are established at our campuses in India with physiotherapy facilities as well. All relevant norms are ensured
+including competent Medical Staff being provided by the hospitals who are associated for operations of the OHC and physio centers. Health risk assessments
+are conducted, which enable identification of areas for specialist consultations/interventions. We work on tackling the rising concerns of employee stress,
+health and overall wellness through workshops, awareness communication, health checks, online chat sessions and focused communication campaigns. In
+compliance to GDPR and other data protection laws, the specific health information of employees are available only with doctors. Only trends are made
+available to HSE teams for analysis. Through this, we also ensure the information is not used for any favorable or unfavorable treatment of workers.
+There are also benefits provided to employees with options of health checks, interventions through our extended tie up with hospitals to benefit employees
+and dependents for addressal of non-occupational related illness too. Insurance coverage is ensured for employees and contractual staff. Specific programs for
+contractual staff like mandatory health checks are conducted, along with interventions based on analysis of the risks or hazards. During reviews the progress
+of management programs for reducing/preventing health issues/risks is comprehensively addressed.
+Safety at the workplace is accorded one of the highest priorities at Infosys. We have always focused on building a culture of safety, emphasizing individual
+responsibility. Systems have been established, including work permits, trainings, LOTO (lockout/tagout), safety inspections, audits, operational controls,
+monitoring, audits and assessments and others. Gaps, learnings, deviations, findings if any are identified, controls implemented and tracked for effective
+closure. Processes, guidelines, and work instructions are established at various levels addressing various aspects of safety involved in routine / non-routine
+activities of our operations. Policies have been established focusing on specific areas like women’s safety, lone-working, transport, travel, construction,
+among others. Inspections, audits, observations from mock drills, risk assessments etc., enable identification of gaps, learnings, deviations, which depict
+hazards and risks and address the same effectively appropriate operational controls are implemented.
+Comprehensive interventions under the following major themes are planned and ensured:
+• Physical wellness
+• Emotional wellness
+• Safety
+• Leisure
+IX. Environment
+Climate change and its ramifications like rising global temperatures, deteriorating air quality and contamination of our waterbodies are among the
+largest crises looming over the planet in recent times. At Infosys, we recognized the gravity of this issue early on and began focusing on climate action
+since 2008, through energy efficiency, renewable energy, and carbon offset programs. Our aim to adopt, invent and spread smarter ways to mitigate
+GHG emission, reduce energy consumption and manage water and waste. To make our planet stronger by consistently embracing clean tech in our
+operations and client solutions, thereby minimizing the impact on nature. We achieved Carbon Neutrality in fiscal 2020, 30 years ahead of the 2050
+timeline set by the Paris Agreement, as a culmination of our decade long efforts in environment stewardship and have been consistently achieving the
+same for the past 4 years. Over the past decade, we have leveraged technology to build and run some of the most efficient buildings and campuses
+globally. Campuses that conserve energy, save water and treat waste responsibly. Our campuses are ‘living labs’ for clean technology. Leveraging our
+expertise, we set up the Sustainability Practice Unit in 2020 with a mission to serve the preservation of our planet by shaping and sharing technology
+solutions. The practice works collaboratively with business units to scale technology-led solutions to tackle climate change. Our sustainability philosophy
+is about ensuring that our business, our clients’ businesses, and our ecosystems are all sustainable. Now, we are bringing our net carbon neutral success
+to sustainable offerings for our clients’ businesses, throughout the market. We have proven that we understand the metrics of sustainability and global
+reporting criteria.
+We have over the years implemented energy efficiency projects across HVAC and lighting spaces through various initiatives that include:
+ Retrofits in HVAC – Chiller efficiency improvements
+ Augmentation of water heating with solar water heaters
+ Lighting
+ Transition of remote desktops to VDI interface to automatically shut down desktops which are on
+ Replacement of conventional UPS with Modular UPS
+ UPS Retrofits leading to over 10% efficiency improvement
+ High efficiency data centers
+Infosys by virtue of its long-term commitments on Sustainability including aspects of Climate Change, Sustainable Resource Usage, Prevention of pollution and
+others in addition to ensuring adherence to applicable legal requirements has made great strides in this area and is a leader in this space. HSE performance is
+tracked, monitored, reviewed in detail. The areas for Environmental Monitoring include:
+• Evaluation of Compliance to ensure adherence
+• Evaluation of progress of environmental goals
+• Testing of various parameters through MOEF approved / NABL certified labs to ascertain adherence to applicable norms and ensure parameters
+are within legal norms.
+Raw Water, Drinking Water, Sewage Treatment Plant (STP) treated water, Sludge
+o
+Stack emissions, Ambient Air, Ambient noise, Insertion loss (DG sets)
+o
+Used oil (Hazardous Waste) before disposal
+o
+Calibration of instruments / solutions against certified instruments/solutions having a known valid relationship to National /
+o
+International Standards.
+X. HSE Requirements for Supply Chain
+Contracts with suppliers contain clauses to ensure adherence to Health, Safety and Environmental requirements. These are also comprehensively addressed
+through the Supplier Code of Conduct as well including that of adherence to legal requirements.
